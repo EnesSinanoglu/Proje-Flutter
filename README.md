@@ -143,8 +143,10 @@ lib/
 ![alt text](assets/images/fluttter6.PNG)
 ![alt text](assets/images/profil.PNG)
 
-## Demo Video
-https://github.com/user-attachments/assets/9cbe8d74-b9db-4a00-8763-7164f97d8350
+## Video
+https://github.com/user-attachments/assets/b9ab8a48-a8af-4cdb-a102-23b66300c8ec
+
+
   
 
 ## Projeye Katkı Sağlama
@@ -169,7 +171,7 @@ https://github.com/user-attachments/assets/9cbe8d74-b9db-4a00-8763-7164f97d8350
 
 ## İletişim
 
-- Proje Bağlantısı: [https://github.com/nilaykarabudak/N-Flutter]
+- Proje Bağlantısı: [https://github.com/EnesSinanoglu/Proje-Flutter]
 
 - İstinye Üniversitesi: [https://www.istinye.edu.tr/](https://www.istinye.edu.tr/)
 
