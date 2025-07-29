@@ -73,7 +73,7 @@ Uygulama, hem mobil cihazlar (akıllı telefon ve tablet) hem de masaüstü bilg
 
 ```bash
 
-git  clone [enessinanoglu/Z-Flutter]
+git  clone [enessinanogluProje-Flutter]
 
 ```
 
